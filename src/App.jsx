@@ -33,7 +33,7 @@ function App() {
       <div className="card">
         <button onClick={() => {
           setCount((count) => count + 1)
-          handleClick("we have an error spongBob")
+          handleClick("we have an error spongBob Error message 2")
         }}>
           count is {count}
         </button>
